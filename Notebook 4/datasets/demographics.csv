@@ -1,0 +1,64 @@
+Geo_Order,OBJECTID,Community,County,HISP_P,White_P,Black_P,AI_P,Asian_P,PI_P,Other_P,Under5_P,Over65_P,Inst_P,NonInst_P,Renters_P,,,,
+34,1,Alameda,Alameda County,0.11,0.60,0.08,0.02,0.34,0.01,0.04,0.04,0.12,0.00,0.03,0.60,,Group,Indicator,Explanation
+30,2,Albany,Alameda County,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,,Ethnicity,HISP_P,% of Residents in Zone that are Hispanic
+31,3,Berkeley,Alameda County,0.00,1.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,,Race,White_P,% of Residents in Zone that are White
+32,4,Emeryville,Alameda County,0.04,0.70,0.07,0.01,0.24,0.00,0.02,0.02,0.23,0.00,0.00,0.46,,,Black_P,% of Residents in Zone that are Black
+38,5,Fremont,Alameda County,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,,,AI_P,% of Residents in Zone that are American Indian
+36,6,Hayward,Alameda County,0.13,0.15,0.07,0.01,0.74,0.02,0.07,0.09,0.09,0.00,0.00,0.09,,,Asian_P,% of Residents in Zone that are Asian
+39,7,Newark,Alameda County,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,,,PI_P,% of Residents in Zone that are Pacific Islander
+33,8,Oakland,Alameda County,0.04,0.57,0.13,0.00,0.13,0.00,0.04,0.00,0.04,0.00,0.04,0.62,,,Other_P,% of Residents in Zone that are Other Race
+35,9,San Leandro,Alameda County,0.18,0.31,0.14,0.01,0.50,0.01,0.10,0.06,0.10,0.00,0.00,0.36,,Age,Under5_P,% of Residents in Zone that are Under 5 years in age
+40,10,Unincorporated Alameda County,Alameda County,0.34,0.68,0.02,0.03,0.15,0.02,0.15,0.04,0.18,0.00,0.00,0.18,,,Over65_P,% of Residents in Zone that are over 65 years in age
+37,11,Union City,Alameda County,0.15,0.22,0.07,0.01,0.66,0.03,0.09,0.07,0.09,0.00,0.00,0.27,,Group Quarters,Inst_P,% of Residents in Zone that are in Instituationalized Group Quarters
+22,12,Concord,Contra Costa County,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,,,NonInst_P,% of Residents in Zone that are in Non-Instituationalized Group Quarters
+28,13,El Cerrito,Contra Costa County,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,,Renters,Renters_P,% of Occupied Housing in Zone that are Renters
+25,14,Hercules,Contra Costa County,0.07,0.26,0.26,0.00,0.52,0.00,0.04,0.07,0.07,0.00,0.00,0.13,,,,
+24,15,Martinez,Contra Costa County,0.11,0.89,0.04,0.04,0.04,0.00,0.04,0.04,0.07,0.00,0.25,0.67,,,,
+26,16,Pinole,Contra Costa County,0.13,0.31,0.06,0.00,0.56,0.00,0.06,0.00,0.06,0.00,0.00,0.17,,,,
+21,17,Pittsburg,Contra Costa County,0.25,0.49,0.35,0.02,0.08,0.00,0.14,0.04,0.12,0.00,0.00,0.40,,,,
+27,18,Richmond,Contra Costa County,0.06,0.89,0.04,0.00,0.09,0.00,0.01,0.03,0.30,0.00,0.00,0.20,,,,
+29,19,Unincorporated Contra Costa County,Contra Costa County,0.24,0.71,0.06,0.06,0.18,0.00,0.12,0.06,0.18,0.00,0.00,0.14,,,,
+3,20,Belvedere,Marin County,0.03,0.97,0.00,0.00,0.04,0.00,0.00,0.04,0.38,0.00,0.00,0.36,,,,
+5,21,Corte Madera,Marin County,0.09,0.86,0.02,0.01,0.11,0.00,0.05,0.07,0.18,0.00,0.00,0.24,,,,
+6,22,Larkspur,Marin County,0.08,0.92,0.03,0.01,0.05,0.01,0.04,0.03,0.25,0.00,0.00,0.20,,,,
+2,23,Mill Valley,Marin County,0.04,0.92,0.01,0.01,0.08,0.00,0.01,0.04,0.43,0.06,0.00,0.60,,,,
+9,24,Novato,Marin County,0.08,0.88,0.02,0.02,0.10,0.00,0.01,0.05,0.31,0.00,0.00,0.30,,,,
+8,25,Ross,Marin County,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,,,,
+7,26,San Rafael,Marin County,0.74,0.50,0.02,0.03,0.06,0.00,0.44,0.09,0.06,0.00,0.01,0.68,,,,
+1,27,Sausalito,Marin County,0.03,0.93,0.03,0.02,0.03,0.00,0.01,0.02,0.23,0.00,0.00,0.31,,,,
+4,28,Tiburon,Marin County,0.04,0.94,0.02,0.00,0.06,0.00,0.00,0.04,0.19,0.00,0.00,0.44,,,,
+10,29,Unincorporated Marin County,Marin County,0.11,0.88,0.02,0.01,0.07,0.00,0.05,0.04,0.21,0.00,0.02,0.25,,,,
+14,30,American Canyon,Napa County,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,,,,
+13,31,Napa,Napa County,0.00,1.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,,,,
+15,32,Unincorporated Napa County,Napa County,0.05,0.74,0.00,0.05,0.21,0.00,0.05,0.05,0.16,0.00,0.00,0.13,,,,
+65,33,San Francisco,San Francisco County,0.24,0.41,0.27,0.06,0.23,0.02,0.12,0.05,0.02,0.00,0.06,0.91,,,,
+54,34,Belmont,San Mateo County,0.09,0.52,0.02,0.01,0.45,0.02,0.04,0.07,0.09,0.00,0.00,0.24,,,,
+60,35,Brisbane,San Mateo County,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,,,,
+56,36,Burlingame,San Mateo County,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,,,,
+61,37,Daly City,San Mateo County,0.13,0.28,0.07,0.01,0.61,0.02,0.09,0.04,0.10,0.00,0.00,0.24,,,,
+48,38,East Palo Alto,San Mateo County,0.57,0.26,0.26,0.02,0.06,0.09,0.37,0.09,0.07,0.00,0.00,0.34,,,,
+53,39,Foster City,San Mateo County,0.07,0.50,0.02,0.01,0.49,0.01,0.03,0.07,0.13,0.00,0.00,0.42,,,,
+63,40,Half Moon Bay,San Mateo County,0.18,0.84,0.00,0.02,0.10,0.00,0.11,0.05,0.15,0.00,0.00,0.25,,,,
+49,41,Menlo Park,San Mateo County,0.66,0.33,0.20,0.02,0.06,0.05,0.38,0.10,0.08,0.00,0.00,0.42,,,,
+57,42,Millbrae,San Mateo County,0.25,0.60,0.05,0.00,0.40,0.05,0.05,0.00,0.10,0.00,0.00,0.14,,,,
+62,43,Pacifica,San Mateo County,0.14,0.82,0.02,0.04,0.14,0.01,0.04,0.02,0.06,0.00,0.00,0.84,,,,
+51,44,Redwood City,San Mateo County,0.24,0.57,0.03,0.01,0.31,0.02,0.13,0.08,0.10,0.01,0.01,0.39,,,,
+58,45,San Bruno,San Mateo County,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,,,,
+52,46,San Carlos,San Mateo County,0.22,0.83,0.01,0.03,0.11,0.02,0.09,0.08,0.06,0.00,0.00,0.27,,,,
+55,47,San Mateo,San Mateo County,0.31,0.56,0.04,0.01,0.24,0.05,0.17,0.07,0.12,0.00,0.01,0.43,,,,
+59,48,South San Francisco,San Mateo County,0.19,0.81,0.05,0.03,0.05,0.07,0.05,0.01,0.12,0.00,0.57,0.13,,,,
+64,49,Unincorporated San Mateo County,San Mateo County,0.55,0.59,0.04,0.05,0.07,0.01,0.29,0.06,0.09,0.00,0.00,0.42,,,,
+41,50,Milpitas,Santa Clara County,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,,,,
+45,51,Mountain View,Santa Clara County,0.75,0.00,0.00,0.00,0.00,0.00,0.75,0.00,0.00,0.00,0.00,0.00,,,,
+46,52,Palo Alto,Santa Clara County,0.06,0.56,0.03,0.00,0.42,0.01,0.02,0.06,0.16,0.00,0.00,0.28,,,,
+42,53,San Jose,Santa Clara County,0.10,0.80,0.00,0.00,0.00,0.00,0.10,0.00,0.30,0.00,0.00,0.75,,,,
+43,54,Santa Clara,Santa Clara County,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,,,,
+44,55,Sunnyvale,Santa Clara County,0.33,0.33,0.33,0.00,0.00,0.00,0.33,0.00,0.00,0.00,0.00,1.00,,,,
+47,56,Unincorporated Santa Clara County,Santa Clara County,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,,,,
+17,57,Benicia,Solano County,0.07,0.89,0.04,0.01,0.07,0.01,0.02,0.02,0.21,0.00,0.00,0.24,,,,
+18,58,Fairfield,Solano County,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,,,,
+19,59,Suisun City,Solano County,0.18,0.64,0.27,0.00,0.09,0.00,0.09,0.00,0.09,0.00,0.00,0.33,,,,
+20,60,Unincorporated Solano County,Solano County,0.07,0.84,0.00,0.04,0.09,0.01,0.03,0.03,0.24,0.00,0.00,0.48,,,,
+16,61,Vallejo,Solano County,0.18,0.46,0.18,0.00,0.29,0.01,0.09,0.03,0.12,0.00,0.08,0.16,,,,
+11,62,Petaluma,Sonoma County,0.18,0.85,0.01,0.01,0.10,0.00,0.10,0.08,0.04,0.00,0.04,0.77,,,,
+12,63,Unincorporated Sonoma County,Sonoma County,0.21,0.91,0.01,0.00,0.01,0.01,0.10,0.01,0.18,0.00,0.00,0.52,,,,
