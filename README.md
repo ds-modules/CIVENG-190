@@ -1,5 +1,5 @@
 # CIVENG-190
-## Civil and Environmental Engineering: Data and Equity in Environmental Engineering
+## Civil and Environmental Engineering: Data and Equity in Environmental Engineering Fall 2023
 ### Professor: Cesunica Ivey
 #### Team Lead: Skye Pickett
 #### Developer Team: Lori Khashaki, Vishali Kirthi, and Abigail Yu
